@@ -12,6 +12,7 @@ Credits
 -------
 
 Author: Jamison Bryant
+
 Website: http://jamisonbryant.com
 
 License
