@@ -11,9 +11,7 @@ less maddening by providing pre-written functions for common tasks, such as:
 Credits
 -------
 
-Author: Jamison Bryant
-
-Website: http://jamisonbryant.com
+Written by Jamison Bryant (http://jamisonbryant.com)
 
 License
 -------
